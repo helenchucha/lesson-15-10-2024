@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+    background-color: darkkhaki;
+}
+
+h1{
+    background-color:aqua;
+}
+
+h2{
+    background-color: blue;
+}
+
+h3 {
+    background-color:brown;
+}
+
+h4{
+    background-color:blueviolet;
+}
+
+h5{
+    background-color:chartreuse;
+}
+
+h6{
+    background-color:chocolate;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-size: 20px;
+}
